@@ -1,0 +1,35 @@
+you need to hand in at least you java code of what you have so far even if buggy 
+Project one supermarket 
+
+In a supermarket, there is a single waiting line that feeds up to 6 cashiers. A supervisor tells the first customer on the waiting line to go to a free register line once it becomes free so there never is a waiting line at a cash register. The supervisor also decides based on the backlog in the single line (maybe 8 waiting customers) how many of the cash register lines open (there are more than enough employees to have all the lines serviced). Customers arrive at the single line at the rate from 1 to 6 minutes intervals. It takes from 8.0 to 16.0 minutes to check out a customer. If the waiting line becomes short (less than the number of open register lines), the supervisor reassigns the clerk to another task and closes the line. Likewise if the waiting line becomes too long the supervisor opens another register (up to the limit of course). 
+
+Use basic random number generator U[0,1) in the computer. It is a double precision number.
+
+Start with one register line.
+
+Run the program several times with different number of customers waiting in the queue before a new server line is opened and also how many to close a register. 
+
+E.g, To get a random number between 1 and 6, all double precision numbers in this range equally likely, use 1.0+5*U 
+
+Run for 10,000 customers completing.
+
+output
+you should output the first 30 events in detail
+your answers are:
+with x_1 customers in the line before another server is added and x_2 customers in the before a server is removed, the average waiting time of customers (not including service time) is.
+try 3 different values for x_1 and x_2
+check: output the avg interarrival time and service time
+
+
+
+
+
+change all distributions to be exponential using the standard uniform generator
+use an x limit of 0 (add a server if queue size =x)
+use a y limit of 0 (remove a server if queue size=y)
+output the first 30 customers the following 
+
+debugging information
+event lists should include time of arrival, customer number, service amount, if known
+
+current time, future events (list), delayed events (list), number busy servers
