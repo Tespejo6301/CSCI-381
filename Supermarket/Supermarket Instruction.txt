@@ -21,9 +21,6 @@ try 3 different values for x_1 and x_2
 check: output the avg interarrival time and service time
 
 
-
-
-
 change all distributions to be exponential using the standard uniform generator
 use an x limit of 0 (add a server if queue size =x)
 use a y limit of 0 (remove a server if queue size=y)
