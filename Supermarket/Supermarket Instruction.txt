@@ -1,3 +1,5 @@
+Supermarket Project Instruction
+
 you need to hand in at least you java code of what you have so far even if buggy 
 Project one supermarket 
 
