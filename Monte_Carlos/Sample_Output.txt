@@ -1,0 +1,52 @@
+Name:Trisha Espejo
+CSCI 381
+Monte Carlos Simulation: Random Walks
+Due: 10/04/2020
+Professor: Ted Brown
+
+Sample Result:
+The starting bet 10 with the probability: 0.4
+number of win: 0
+number of lose: 50
+average bet: 50.56
+
+The starting bet 100 with the probability: 0.4
+number of win: 0
+number of lose: 50
+average bet: 508.84
+
+The starting bet 1000 with the probability: 0.4
+number of win: 0
+number of lose: 50
+average bet: 4995.32
+
+The starting bet 10 with the probability: 0.4864864864864865
+number of win: 0
+number of lose: 50
+average bet: 318.52
+
+The starting bet 100 with the probability: 0.4864864864864865
+number of win: 0
+number of lose: 50
+average bet: 3872.52
+
+The starting bet 1000 with the probability: 0.4864864864864865
+number of win: 1
+number of lose: 49
+average bet: 36256.0
+
+The starting bet 10 with the probability: 0.5
+number of win: 4
+number of lose: 46
+average bet: 1366.56
+
+The starting bet 100 with the probability: 0.5
+number of win: 21
+number of lose: 29
+average bet: 12499.8
+
+The starting bet 1000 with the probability: 0.5
+number of win: 47
+number of lose: 3
+average bet: 77372.92
+
