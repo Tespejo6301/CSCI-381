@@ -1,1 +1,2 @@
-# CSCI-381
+# CSCI-381 Simulation and Modeling
+
